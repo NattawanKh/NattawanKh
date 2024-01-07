@@ -19,7 +19,7 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,docker,c++,html,js,linux,matlab,nodejspy,sqlite,grafana" />
   </a>
 </p>
 </div>
