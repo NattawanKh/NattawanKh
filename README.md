@@ -8,7 +8,7 @@
 <H1>Languages and Tools: </H1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,html,css,js,linux,matlab,nodejs,opencv,py,qt,sqlite,mysql,grafana,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=flutter,cpp,html,css,js,linux,matlab,nodejs,opencv,py,qt,sqlite,mysql,grafana,raspberrypi" />
   </a>
 </p>
 
