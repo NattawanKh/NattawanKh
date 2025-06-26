@@ -1,8 +1,8 @@
 <H1> Hi there 👋 I'm Nattawan Kh 👓 </H1>
 
 <h2>Career</h2>
-- Development Engineer at Greenergy Engineering (Thailand) [Feb 2025 - Present] </li>
-- Associated Assembly Engineer at SCG Digital [July 2023 - Dec 2024] </li>
+- Development Engineer at Greenergy Engineering (Thailand) [Feb 2025 - Present] 
+- Associated Assembly Engineer at SCG Digital [July 2023 - Dec 2024]
 
 <h2>About</h2>
 - 📖 Exploring and learning about things that genuinely attract me can indeed fuel motivation and keep me engaged in the learning process.
