@@ -12,7 +12,7 @@
 <H1>Languages and Tools: </H1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,cpp,html,css,js,nodejs,postman,react,linux,matlab,ubuntu,opencv,py,qt,sqlite,mysql,postgres,grafana,raspberrypim" />
+    <img src="https://skillicons.dev/icons?i=flutter,cpp,cs,dotnet,html,css,js,nodejs,postman,react,docker,linux,aws,matlab,ubuntu,opencv,py,flask,qt,sqlite,mysql,postgres,grafana,raspberrypim" />
   </a>
 </p>
 
